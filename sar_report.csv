@@ -1,0 +1,8 @@
+transaction_id,amount,country,account_age_days,velocity_flag
+2,12000,NG,45,
+4,25000,UK,15,
+6,45000,UK,2000,
+9,11000,RU,20,
+3,800,RU,300,
+5,300,IR,60,
+7,900,NG,30,
